@@ -1,0 +1,41 @@
+Won 7210/10000
+Won 7164/10000
+Won 7222/10000
+Won 7206/10000
+Won 7196/10000
+Won 7143/10000
+Won 7178/10000
+Won 7234/10000
+Won 7164/10000
+Won 7189/10000
+Percent Won: 71.9%
+Death Average: 1.08363697048925
+Chance of losing +1 Strength Survivor: 13.690252295175604
+Death Breakdown: {0=26.518, 1=21.716, 2=14.816, 3=8.852, 4=28.098}
+          Bleeding Tokens - 17.27%
+             Brain Trauma - 15.25%
+     Severe Injury : ARMS -  6.73%
+     Severe Injury : BODY - 19.49%
+     Severe Injury : HEAD - 30.72%
+     Severe Injury : LEGS -  6.66%
+    Severe Injury : WAIST -  3.89%
+Disorders Average: 0.32400634161266095
+Severe Injuries Average: 0.6903596361916947
+Blind:10.29,Destroyed Genitals: 1.74,Shattered Jaw: 9.83,Deaf: 9.41,Dismembered Leg: 3.29,Broken Arm: 3.44,Contracture: 3.58,Warped Pelvis: 1.74,Intestinal Prolapse: 1.85,Ruptured Muscle: 3.54,Broken Hip: 1.67,Destroyed Back: 9.13,Intracranial Hemorrhage: 9.85,Dismembered Arm: 3.59,Broken Rib:10.35,Broken Leg: 3.21,Hamstrung: 3.47,Gaping Chest Wound:10.02,
+0:[51.54234859340825, 5.377479447922166, 19.560298665057697, 23.519873293611887]
+1:[42.084177564929085, 7.331000184195984, 19.515564560692578, 31.069257690182354]
+2:[40.26727861771058, 9.833963282937365, 18.3585313174946, 31.540226781857452]
+3:[48.99457749661094, 12.991414369633981, 17.63443289652056, 20.379575237234523]
+
+Statistic [min=0, max=42, average=1.38368] - Power Swat
+Statistic [min=0, max=131, average=1.64135] - Terrifying Roar
+Statistic [min=0, max=7, average=0.89637] - Enraged
+Statistic [min=0, max=80, average=1.33829] - Basic Action
+Statistic [min=0, max=33, average=1.33431] - Chomp
+Statistic [min=0, max=124, average=1.36228] - Size Up
+Statistic [min=0, max=69, average=1.39803] - Grasp
+Statistic [min=1, max=41, average=2.63867] - Claw
+Statistic [min=0, max=67, average=1.33272] - Maul
+Resources Average: 9.134467221094207
+???: 0.40,Broken Lantern: 0.40,Curious Hand: 0.24,Eye of Cat: 0.24,Golden Whiskers: 0.24,Great Cat Bones: 0.97,Lion Claw: 0.84,Lion Tail: 0.35,Lion Testes: 0.33,Love Juice: 0.39,Monster Bone: 0.79,Monster Hide: 1.39,Monster Organ: 0.59,Shimmering Mane: 0.33,Sinew: 0.48,Skull: 0.20,White Fur: 0.96,
+Bone: 3.19,Consumable: 1.95,Hide: 4.00,Organ: 2.68,Scrap: 0.40,
